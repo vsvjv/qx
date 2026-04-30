@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,etherscan.io
-DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kucoin.com
@@ -19,6 +18,7 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,upbit.com
+#DOMAIN-SUFFIX,gate.io
 # > Binane
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.com
 # > Bybit
+DOMAIN-SUFFIX,bybit.eu
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,bybit.com
