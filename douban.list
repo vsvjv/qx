@@ -1,0 +1,7 @@
+        # issue#37
+        # IOS APP实测有效，其余设备不保证，doubanio.com的域名是加载图片的，实测直连不影响地区
+        - DOMAIN-SUFFIX,douban.com
+        - IP-CIDR,49.233.242.15/32
+        - IP-CIDR,81.70.124.99/32
+        - IP-CIDR,81.70.125.19/32
+        - IP-CIDR,140.143.177.206/32
