@@ -7,14 +7,14 @@
 # TOTAL: 13
 # > Douyin
 
-DOMAIN,lf3-static.bytednsdoc.com
-DOMAIN,v5-dy-o-abtest.zjcdn.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,pstatp.com
+#DOMAIN,lf3-static.bytednsdoc.com
+#DOMAIN,v5-dy-o-abtest.zjcdn.com
+#DOMAIN-SUFFIX,douyincdn.com
+#DOMAIN-SUFFIX,douyinstatic.com
+#DOMAIN-SUFFIX,idouyinvod.com
+#DOMAIN-SUFFIX,ixigua.com
+#DOMAIN-SUFFIX,ixiguavideo.com
+#DOMAIN-SUFFIX,pstatp.com
 
 
 # 针对部分网站显示IP归属地的分流规则
