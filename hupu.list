@@ -17,4 +17,4 @@ config:
         
 # ======= 虎扑 ======= #
 
-        - DOMAIN,bbs.mobileapi.hupu.com
+        DOMAIN,bbs.mobileapi.hupu.com
